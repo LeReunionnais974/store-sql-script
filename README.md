@@ -8,7 +8,7 @@ Programmation en base de données d'une boutique de produit.
 
 ## Description
 
-Ce dépôt est contient des scripts sql utilisant une base de données T-sql.
+Ce dépôt contient des scripts sql utilisant une base de données T-sql.
 La base de données appartient à une boutique de produits, elle est utilisée à titre d'exemple pour mes compétences en base de données.
 Les scripts implémentes des vues, fonctions, procédures stockées et des triggers.
 
